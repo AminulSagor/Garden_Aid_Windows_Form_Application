@@ -1,0 +1,61 @@
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.exe
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.deps.json
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.runtimeconfig.json
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.runtimeconfig.dev.json
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.dll
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\ref\Garden AID.dll
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.pdb
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.csproj.AssemblyReference.cache
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.csproj.GenerateResource.cache
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.AssemblyInfoInputs.cache
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.AssemblyInfo.cs
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.csproj.CoreCompileInputs.cache
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.dll
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\ref\Garden AID.dll
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.pdb
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.genruntimeconfig.cache
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.CreateAccountPage.resources
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.LogInPage.resources
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.Properties.Resources.resources
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.Verification.resources
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.AccountTypeChoose.resources
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.SellerPage.resources
+D:\Picture\C# code\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.Homapage.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.exe
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.deps.json
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.runtimeconfig.json
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.runtimeconfig.dev.json
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\ref\Garden AID.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.pdb
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.csproj.AssemblyReference.cache
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.AccountTypeChoose.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.CreateAccountPage.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.Homapage.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.LogInPage.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.Properties.Resources.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.SellerPage.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.Verification.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.csproj.GenerateResource.cache
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.AssemblyInfoInputs.cache
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.AssemblyInfo.cs
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.csproj.CoreCompileInputs.cache
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\ref\Garden AID.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.pdb
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.genruntimeconfig.cache
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.ManageProfile.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.ViewProfile.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\Garden AID.dll.config
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden AID.csproj.CopyComplete
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.ForgottenPassword.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.IndoorPlant.resources
+E:\Final Project Mission to do it\Garden AID\Garden AID\obj\Debug\net5.0-windows\Garden_AID.Notification.resources
